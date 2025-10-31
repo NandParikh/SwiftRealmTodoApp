@@ -196,7 +196,7 @@ print(Realm.Configuration.defaultConfiguration.fileURL!)
 
 ------------------------------------------------------------------------
 
-## 🧩 Summary for Interviews
+## 🧩 Summary
 
   Concept              Description
   -------------------- ----------------------------------------------
